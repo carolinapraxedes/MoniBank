@@ -13,4 +13,7 @@
 * CSS
 
 <hr>
-##Caso queira visualizar  o projeto, clique [aqui](https://carolinapraxedes.github.io/MoniBank/)
+Caso queira visualizar o projeto, visite:
+
+[MoniBank](https://carolinapraxedes.github.io/MoniBank/)
+
